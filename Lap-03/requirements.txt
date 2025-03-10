@@ -1,0 +1,4 @@
+PyQt5
+requests
+
+lask >= 2.3.2
